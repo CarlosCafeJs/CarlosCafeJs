@@ -11,7 +11,7 @@ Estou no gratificante projeto de me desenvolver como profissional, e adoro isso.
 
 ## Tecnologias de Interesse e experiencias: 
 
-[![My Skills](https://skillicons.dev/icons?i=mysql,java,kotlin,nodejs,ts,js,jquery,nodejs,nextjs,figma,html,css,angula&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=mysql,java,kotlin,nodejs,express,ts,js,jquery,nodejs,nextjs,figma,html,css,angula&theme=light)](https://skillicons.dev)
 ### Desenvolvimento FullStack:
 
 
