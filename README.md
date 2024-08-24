@@ -10,8 +10,9 @@ Estou no gratificante projeto de me desenvolver como profissional, e adoro isso.
 [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCkxtNviGX3Ht13vjQ8r76uQ)
 
 ## Tecnologias de Interesse e experiencias: 
+[![My Skills](https://skillicons.dev/icons?i=mysql,java,kotlin,nodejs,express,tsangula&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,jquery,nodejs,nextjs,figma,html,css,angula&theme=light)](https://skillicons.dev)
 
-[![My Skills](https://skillicons.dev/icons?i=mysql,java,kotlin,nodejs,express,ts,js,jquery,nodejs,nextjs,figma,html,css,angula&theme=light)](https://skillicons.dev)
 ### Desenvolvimento FullStack:
 
 
