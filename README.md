@@ -31,7 +31,7 @@ Estou no gratificante projeto de me desenvolver como profissional, e adoro isso.
 
  <div align="right"> 
   ![giphy](https://github.com/judah-lopes/judah-lopes/assets/134812191/bdc43a21-4aa7-49d3-805c-db4b594797b2)
-  </div> -->
+  </div>
 
 ========================= Possíveis utilizáveis ========================
    | Tipo do Commit       | Emoji                | Palavra Chave | 
