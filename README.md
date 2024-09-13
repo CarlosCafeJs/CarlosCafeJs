@@ -26,26 +26,5 @@ Estou no gratificante projeto de me desenvolver como profissional, e adoro isso.
 </picture>
 
 <br>
-  <hr>
-
-
- <div align="right"> 
-  ![giphy](https://github.com/judah-lopes/judah-lopes/assets/134812191/bdc43a21-4aa7-49d3-805c-db4b594797b2)
-  </div>
-
-========================= Possíveis utilizáveis ========================
-   | Tipo do Commit       | Emoji                | Palavra Chave | 
-   |----------------------|----------------------|---------------|
-   | Desafios             | ✒️ `:black_nib:`    | course        |
-   | Bug Fix              | 🐛 `:bug:`          | fix           |
-   | Comentários          | 💡 `:bulb:`         | docs          |
-   | Documentação         | 📚 `:books:`        | docs          |
-   | Em progresso         | 🚧 `:construction:` | progress      |
-   | Estilização          | 🎨 `:art:`          | style         |
-   | Mover/Renomear       | 🚚 `:truck:`        | chore         |
-   | Novo recurso         | ✨ `:sparkles:`     | feat          |
-   | Pequena Alteração    | 🔨 `:hammer:`       | edit          |
-   | Deletando um arquivo | 🗑️ `:wastebasket:`  | remove        |
-   | Teste Avulso         |  `:trollface:`      | test          |
-   | Texto                | 📝 `:pencil:`       | text          |
+<hr>
 
