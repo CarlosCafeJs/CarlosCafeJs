@@ -20,9 +20,9 @@ Estou no gratificante projeto de me desenvolver como profissional, e adoro isso.
 ![Carlos Cafe Js](https://github-readme-stats.vercel.app/api/top-langs/?username=CarlosCafeJs&theme=dracula)
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/judah-lopes/judah-lopes/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/judah-lopes/judah-lopes/output/github-contribution-grid-snake-dark.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/judah-lopes/judah-lopes/output/github-contribution-grid-snake.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/CarlosCafeJs/CarlosCafeJs/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/CarlosCafeJs/CarlosCafeJs/output/github-contribution-grid-snake-dark.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/CarlosCafeJs/CarlosCafeJs/output/github-contribution-grid-snake.svg">
 </picture>
 
 <br>
